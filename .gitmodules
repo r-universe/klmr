@@ -8,3 +8,4 @@
 	url = https://github.com/klmr/box
 	shallow = true
 	registered = true
+	oncran = true
