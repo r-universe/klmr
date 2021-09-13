@@ -1,10 +1,17 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/klmr/universe
 	shallow = true
 	branch = HEAD
 [submodule "box"]
 	path = box
 	url = https://github.com/klmr/box
 	shallow = true
+	branch = dev
+	registered = true
+[submodule "unpack"]
+	path = unpack
+	url = https://github.com/klmr/unpack
+	shallow = true
+	branch = main
 	registered = true
