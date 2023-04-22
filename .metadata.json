@@ -1,9 +1,0 @@
-[
-  {
-    "package": "box",
-    "oncran": true
-  },
-  {
-    "package": "unpack"
-  }
-]
