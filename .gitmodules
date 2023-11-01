@@ -6,6 +6,10 @@
 	path = box
 	url = https://github.com/klmr/box
 	branch = build
+[submodule "rprofile"]
+	path = rprofile
+	url = https://github.com/klmr/rprofile
+	branch = main
 [submodule "unpack"]
 	path = unpack
 	url = https://github.com/klmr/unpack
