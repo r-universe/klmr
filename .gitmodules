@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/klmr/klmr.r-universe.dev
 	branch = HEAD
+[submodule "aka"]
+	path = aka
+	url = https://github.com/klmr/aka
+	branch = main
 [submodule "box"]
 	path = box
 	url = https://github.com/klmr/box
